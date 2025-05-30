@@ -17,7 +17,9 @@ This project aims to allow the users to control their lighting system via voice 
 
 ## Circuit Diagram
 
-The following image shows the wiring scheme of the referenced demo video, in which they use an Arduino Mega, a Voice Recognition Module as well as a Gesture Sensor module. For the sake of simplicity and our project, we solely take interest in the Voice Sensor and considering we're using an Arduino Uno.
+The following image shows the wiring scheme of the referenced demo video, in which they use an Arduino Mega, a Voice Recognition Module as well as a Gesture Sensor module. 
+
+For the sake of simplicity and our project, we solely take interest in the wiring of the Voice Sensor and we consider our use of an Arduino Uno.
 
 ![Wiring Scheme of Inspired Video](./images/wiring-scheme.png)
 
