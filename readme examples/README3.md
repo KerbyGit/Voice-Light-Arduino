@@ -32,6 +32,14 @@ This project demonstrates a simple ultrasonic sensor-based data logging system t
 ## Wiring Instructions
 
 ### SD Card Module:
+or 
+
+| Arduino Pin | Connected To | Description |
+|-------------|--------------|-------------|
+| Pin 2       | [Component]  | [Purpose]   |
+| Pin 3       | [Component]  | [Purpose]   |
+| ...         | ...          | ...         |
+
 - CS → Arduino Pin 10
 - MOSI → Arduino Pin 11
 - MISO → Arduino Pin 12

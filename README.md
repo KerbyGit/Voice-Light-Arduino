@@ -17,15 +17,30 @@ This project aims to allow the users to control their lighting system via voice 
 
 ## Circuit Diagram
 
-[Insert circuit diagram image or description]
+The following image shows the wiring scheme of the referenced demo video, in which they use an Arduino Mega, a Voice Recognition Module as well as a Gesture Sensor module. For the sake of simplicity and our project, we solely take interest in the Voice Sensor and considering we're using an Arduino Uno.
+
+![Wiring Scheme of Inspired Video](images\wiring scheme.png)
 
 ## Wiring Instructions
 
-| Arduino Pin | Connected To | Description |
-|-------------|--------------|-------------|
-| Pin 2       | [Component]  | [Purpose]   |
-| Pin 3       | [Component]  | [Purpose]   |
-| ...         | ...          | ...         |
+### Voice Recognition Module:
+- **VCC** → Arduino 5V  
+- **GND** → Arduino GND  
+- **TX**  → Arduino Pin D6 (SoftwareSerial RX)  
+- **RX**  → Arduino Pin D7 (SoftwareSerial TX)  
+- **Mode Switch** → Set to **UART**
+
+### Relay Module & Lamp:
+- **VCC** → Arduino 5V  
+- **GND** → Arduino GND  
+- **IN**  → Arduino Pin D8  
+- **COM** → +5 V rail on breadboard  
+- **NO**  → Lamp “+” lead  
+- **Lamp “–” lead** → GND rail on breadboard  
+
+### Red LED:
+- **Anode** (long leg) → 220 Ω resistor → Arduino Pin D3  
+- **Cathode** (short leg) → Arduino GND  
 
 ## Software Requirements
 
