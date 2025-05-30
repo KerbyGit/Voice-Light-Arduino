@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to allow the users to control their lighting system via voice control, thus allowing for a hands-free system. We can remotely control a red LED as well as small lightbulb with the sound of our voice.With the use of an Arduino Uno and a voice recognition sensor, this beginner project serves as introductory step to the progression of home-automation. 
+This project aims to allow the users to control their lighting system via voice control, thus allowing for a hands-free system. We can remotely control a red LED as well as small lightbulb with the sound of our voice. With the use of an Arduino Uno and a voice recognition sensor, this beginner project serves as introductory step to the progression of home-automation. 
 
 ## Hardware Components
 
@@ -19,7 +19,7 @@ This project aims to allow the users to control their lighting system via voice 
 
 The following image shows the wiring scheme of the referenced demo video, in which they use an Arduino Mega, a Voice Recognition Module as well as a Gesture Sensor module. For the sake of simplicity and our project, we solely take interest in the Voice Sensor and considering we're using an Arduino Uno.
 
-![Wiring Scheme of Inspired Video](images\wiring scheme.png)
+![Wiring Scheme of Inspired Video](images/wiring-scheme.pngwiring-scheme.png)
 
 ## Wiring Instructions
 
