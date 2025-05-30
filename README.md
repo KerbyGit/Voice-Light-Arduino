@@ -129,23 +129,15 @@ This project aims to allow the users to control their lighting system via voice 
 3. Download the voicelightarduino.ino sketch and upload it to your Uno 
 4. Open the Serial Monitor at 115200 baud
 5. Speak clearly to the Voice Recognition Module:
-  - 
-    - Say wake command word "Hello Robot" (blue light appears)
-  - 
-    - Make sure the module is listening (continued presence of blue light)
+  - Say wake command word "Hello Robot" (blue light appears)
+  - Make sure the module is listening (continued presence of blue light)
 6. Say any of the following commands:
-  - 
-    -  "Turn On The Light" 
-  - 
-    -  "Turn Off The Light"  
-  - 
-    -  "Ouvre La Lumiere"  
-  - 
-    -  "Ferme La Lumiere"
-  - 
-    -  "Red LED On"  
-   - 
-    -  "Red Off"
+  - "Turn On The Light" 
+  - "Turn Off The Light"
+  - "Ouvre La Lumiere"  
+  - "Ferme La Lumiere"
+  - "Red LED On"  
+  - "Red Off"
     
 ## Troubleshooting
 
