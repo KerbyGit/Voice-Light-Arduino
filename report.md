@@ -135,5 +135,10 @@ In addition to this, the learning process for the custom commands were strenuous
 - https://wiki.dfrobot.com/SKU_SEN0539-EN_Gravity_Voice_Recognition_Module_I2C_UART#target_9
 - https://www.youtube.com/watch?v=qSqbq6sm4rQ&t=1s
 
-## Acknowledegments
-- I wish to thank Joel Trudeau for the mentorship, the opportunity, and the patience as well as the continous understanding / support over the semester when working on such an educative project. This intership is a wonderful opportunity for many to learn, I was glad to have been part of it.
+## Acknowledgements
+- I wish to thank Joel Trudeau for the mentorship, the opportunity, and the patience as well as the continuous understanding / support over the semester when working on such an educative project. This internship is a wonderful opportunity for many to learn, I was glad to have been part of it.
+
+## Project in Action →
+![Picture Demo of Project](./project%20demo/project-demo.jpeg)
+
+![Live Demo](./project%20demo/demo.mp4)
