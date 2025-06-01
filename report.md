@@ -120,3 +120,20 @@ Per observation and the limiting factor of the module, the commands seem to be r
 ## Discussion and Conclusion
 In short, the project allowed for me to learn furthermore about Arduino and the world of electronics. It allowed me to further understand the process behind hardware and software and how the modern machinery operate at such a high level on a daily basis. 
 
+The mechanical aspect of building the system did not prove to be too difficult. However, my wiring was not the most optimal and it turn it perhaps caused some unstable connection issues at time. Other than that, a majority of the troubles came from the coding of the voice sensor as it took a while to be able to properly recognize and return the correct command ID. 
+
+In addition to this, the learning process for the custom commands were strenuous. I had difficulty learnt the inaccuracy between saying similar commands in French and had realized that it would mix up one and the other. As a result, I simply had to come up with clear and distinct phrasing for the opposite commands to easily receognize. 
+
+- Improvements:
+    - A more stable wiring scheme
+    - Implementing a battery system
+    - Integrating higher voltage devices (e.g. fans, motors, more bulbs)
+    - Reduce the inaccuracy due to noise (Noise Filtering)
+
+## References
+- https://projecthub.arduino.cc/rohan_barnwal/wave-speak-control-the-future-of-smart-homes-is-here-d5bc55
+- https://wiki.dfrobot.com/SKU_SEN0539-EN_Gravity_Voice_Recognition_Module_I2C_UART#target_9
+- https://www.youtube.com/watch?v=qSqbq6sm4rQ&t=1s
+
+## Acknowledegments
+- I wish to thank Joel Trudeau for the mentorship, the opportunity, and the patience as well as the continous understanding / support over the semester when working on such an educative project. This intership is a wonderful opportunity for many to learn, I was glad to have been part of it.
