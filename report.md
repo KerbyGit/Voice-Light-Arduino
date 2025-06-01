@@ -138,7 +138,9 @@ In addition to this, the learning process for the custom commands were strenuous
 ## Acknowledgements
 - I wish to thank Joel Trudeau for the mentorship, the opportunity, and the patience as well as the continuous understanding / support over the semester when working on such an educative project. This internship is a wonderful opportunity for many to learn, I was glad to have been part of it.
 
-## Project in Action →
+## Project in Action
 ![Picture Demo of Project](./project%20demo/project-demo.jpeg)
+
+→ The video file is unable to be shown, please follow the link to download the live demo or find it in the /project demo/ folder at the top of the repository!
 
 ![Live Demo](./project%20demo/demo.mp4)
